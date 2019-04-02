@@ -36,7 +36,7 @@ header.startup h1 {
 }
 
 .btn {
-  align: center;
+  
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
@@ -44,6 +44,7 @@ header.startup h1 {
 }
 
 .btn-xl {
+  margin-left: 70px;
   padding: 1rem 2rem; 
 }
 
