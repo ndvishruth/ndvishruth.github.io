@@ -36,7 +36,7 @@ header.startup h1 {
 }
 
 .btn {
-  
+  border: 1px;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
